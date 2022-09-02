@@ -1,0 +1,10 @@
+console.log("Hello World");
+console.log("Nama : Alia Putri Nur Anggraeni");
+console.log("Jenis kelamin : Perempuan");
+console.log("Tempat Tanggal Lahir :  Bandung, 29 Juni 2006");
+console.log("Kelas : XI RPL 1");
+console.log("Alamat : JL.Bojong suren tengah RT01 RW11");
+console.log("Agama : Islam");
+console.log("Cita - cita : Menjadi Pengusaha atau Ingin keliling dunia");
+console.log("Hobi : Mendengarkan musik");
+console.log("Status : Pelajar");
